@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.73c8fc45.chunk.css",
-    "main.js": "/static/js/main.16b7037d.chunk.js",
-    "main.js.map": "/static/js/main.16b7037d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f0297830.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f0297830.js.map",
-    "static/css/2.cc77c331.chunk.css": "/static/css/2.cc77c331.chunk.css",
-    "static/js/2.aa0719c8.chunk.js": "/static/js/2.aa0719c8.chunk.js",
-    "static/js/2.aa0719c8.chunk.js.map": "/static/js/2.aa0719c8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.cc77c331.chunk.css.map": "/static/css/2.cc77c331.chunk.css.map",
-    "static/css/main.73c8fc45.chunk.css.map": "/static/css/main.73c8fc45.chunk.css.map",
-    "static/js/2.aa0719c8.chunk.js.LICENSE.txt": "/static/js/2.aa0719c8.chunk.js.LICENSE.txt",
-    "static/media/About.scss": "/static/media/background.9df38dbc.png",
-    "static/media/Hero.scss": "/static/media/background.a7aa47b7.png"
+    "main.css": "/ccac-2/static/css/main.002e2bf4.chunk.css",
+    "main.js": "/ccac-2/static/js/main.16b7037d.chunk.js",
+    "main.js.map": "/ccac-2/static/js/main.16b7037d.chunk.js.map",
+    "runtime-main.js": "/ccac-2/static/js/runtime-main.a08868ab.js",
+    "runtime-main.js.map": "/ccac-2/static/js/runtime-main.a08868ab.js.map",
+    "static/css/2.cc77c331.chunk.css": "/ccac-2/static/css/2.cc77c331.chunk.css",
+    "static/js/2.aa0719c8.chunk.js": "/ccac-2/static/js/2.aa0719c8.chunk.js",
+    "static/js/2.aa0719c8.chunk.js.map": "/ccac-2/static/js/2.aa0719c8.chunk.js.map",
+    "index.html": "/ccac-2/index.html",
+    "static/css/2.cc77c331.chunk.css.map": "/ccac-2/static/css/2.cc77c331.chunk.css.map",
+    "static/css/main.002e2bf4.chunk.css.map": "/ccac-2/static/css/main.002e2bf4.chunk.css.map",
+    "static/js/2.aa0719c8.chunk.js.LICENSE.txt": "/ccac-2/static/js/2.aa0719c8.chunk.js.LICENSE.txt",
+    "static/media/About.scss": "/ccac-2/static/media/background.9df38dbc.png",
+    "static/media/Hero.scss": "/ccac-2/static/media/background.a7aa47b7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0297830.js",
+    "static/js/runtime-main.a08868ab.js",
     "static/css/2.cc77c331.chunk.css",
     "static/js/2.aa0719c8.chunk.js",
-    "static/css/main.73c8fc45.chunk.css",
+    "static/css/main.002e2bf4.chunk.css",
     "static/js/main.16b7037d.chunk.js"
   ]
 }
