@@ -1,0 +1,46 @@
+.Process {
+  min-height: 100vh;
+  margin-bottom: 2rem;
+
+  .header {
+    background: #216bb5;
+    width: 100%;
+    h1 {
+      padding: 2.7rem;
+      font-size: 4.5rem;
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 900;
+      color: white;
+      margin: 0;
+    }
+  }
+  .steps {
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  button {
+    display: block;
+    margin: auto;
+    margin-top: 7%;
+
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 1.85rem;
+    color: #216bb5;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+    outline: none;
+    border: 3px solid #216bb5;
+    background: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  button:hover {
+    background: #216bb5;
+    color: white;
+  }
+}
